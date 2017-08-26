@@ -1,0 +1,4 @@
+## SEE BOGGLE TO UNDERSTAND CHANGES TO MAKE IT FASTER!
+
+# Boggle2
+Faster Boggle
